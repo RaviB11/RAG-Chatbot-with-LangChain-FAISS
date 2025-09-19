@@ -1,2 +1,1 @@
-# Lovely-AI
-Your Personal AI Companion
+# RAG Chatbot with LangChain & FAISS
